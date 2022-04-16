@@ -49,7 +49,7 @@ Calculadora desenvolvida aplicando conceitos de POO.
 
 :heavy_check_mark: Divisão;\
 :heavy_check_mark: Multiplicação;\
-:heavy_check_mark: Soma;
+:heavy_check_mark: Soma;\
 :heavy_check_mark: Divisão;
 
 ## :rocket: Tecnologias ##
